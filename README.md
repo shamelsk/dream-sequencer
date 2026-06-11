@@ -68,13 +68,6 @@ Stop the application:
 docker compose down
 ```
 
-The Docker Compose configuration builds the application directly from the local Dockerfile using:
-
-```yaml
-build:
-  context: .
-```
-
 ---
 
 ## 🚀 Contribution
